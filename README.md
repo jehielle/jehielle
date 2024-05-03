@@ -6,7 +6,7 @@ coder, painter, hobby-juggler, prodigal daughter for programming. _(i took the s
 
 i'm currently working on a few projects! stay tuned!
 
-in the meantime, [visit my site](jehielle.github.io) for more.
+in the meantime, [visit my site](https://jehielle.github.io/) for more.
 
 <!--
 **jehielle/jehielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
