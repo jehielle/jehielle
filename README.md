@@ -2,9 +2,9 @@
 
 **i'm jay.** 
 
-coder, painter, hobby-juggler, prodigal daughter for programming. _(i took the scenic route.)_
+coder, painter, hobby-juggler, prodigal daughter for programming.
 
-i'm currently working on a few projects! stay tuned!
+i'm currently working on a few projects - stay tuned!
 
 in the meantime, [visit my site](https://jehielle.github.io/) for more.
 
