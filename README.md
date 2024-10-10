@@ -5,8 +5,8 @@
 coder, painter, hobby-juggler, prodigal daughter for programming.
 
 - 🔭 **i’m currently working on:**
-  - web-scraping using selenium
-  - data visualization
+  - game development with c#
+  - software development with c#, bazel, python
 
 in the meantime, visit my [site](https://jehielle.github.io/) for more!
 
