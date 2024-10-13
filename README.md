@@ -6,7 +6,7 @@ coder, painter, hobby-juggler, prodigal daughter for programming.
 
 - 🔭 **i’m currently working on:**
   - game development with c#
-  - software development with c#, bazel, python
+  - data structures & algos (c++)
 
 in the meantime, visit my [site](https://jehielle.github.io/) for more!
 
